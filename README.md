@@ -1,35 +1,73 @@
-# 👋 Hi, I'm Minhazul Islam
+# Hi, I'm Minhazul Islam
 
-## 🧪 QA / Software Test Engineer
+## QA / Software Test Engineer
 
-Detail-oriented QA professional with hands-on experience in Manual Testing, Mobile App Testing, and API Testing. Experienced in testing real-world applications and validating end-to-end user flows.
+Detail-oriented QA professional with hands-on experience in **Manual Testing, Mobile App Testing (Android and IOS), API Testing, and User Acceptance Testing (UAT)**. I have worked on real-world web and mobile applications, created complete QA documentation, executed test cycles, and raised defects using JIRA.
 
 ---
 
-## 🔧 Skills
-- Manual Testing (Web & Mobile Applications)
-- Mobile App Testing (Android / iOS – Functional)
+## Core Skills
+- Manual Testing (Web Applications)
+- Mobile App Testing (Android – Functional)
+- User Acceptance Testing (UAT)
 - Test Case Design & Execution
 - Test Scenario Writing
-- Bug Reporting & Defect Tracking
+- Test Plan Creation
+- Test Execution & Reporting
+- Defect Reporting & Tracking
 - API Testing (GET, POST, PUT, DELETE)
 - SDLC & STLC
 - Smoke, Regression & Functional Testing
 
 ---
 
-## 🛠 Tools
+## Tools & Technologies
 - JIRA
 - Postman
 - SoapUI
-- Android Emulator
 - GitHub
 - Google Sheets
 - MS Excel
 
 ---
 
-## 📂 Projects
+## Projects
+
+### 🔹 LPGGURU – SaaS Web Portal (UAT Project)
+**Project Type:** SaaS Web Application  
+**Role:** QA / UAT Tester  
+
+**Modules Covered:**
+- CRM
+- Campaign Management
+- IVRS
+- Subscription & Billing
+- Accounts and Inventory
+- Daily Operation
+
+**Responsibilities & Work Done:**
+- Performed **User Acceptance Testing (UAT)** for multiple modules
+- Created **Test Plan** defining scope, approach, and timelines
+- Designed and executed detailed **Test Cases**
+- Prepared **Test Execution Reports**
+- Raised and tracked defects in **JIRA** with proper severity and priority
+- Created **Defect Report / Defect Summary Report** for release readiness
+- Performed re-testing and regression testing after fixes
+
+---
+
+### 🔹 OSDA – Web Portal (UAT Testing)
+**Project Type:** Web Application  
+**Role:** QA Tester  
+
+**Responsibilities & Work Done:**
+- Conducted **UAT testing** for web portal functionalities
+- Created and executed manual test cases
+- Logged defects and issues during UAT phase
+- Verified fixes and ensured expected behaviour before sign-off
+- Maintained test execution status and defect reports
+
+---
 
 ### 🔹 Adactin Hotel – Web Portal Testing
 **Project Type:** Web Application  
@@ -42,32 +80,24 @@ Detail-oriented QA professional with hands-on experience in Manual Testing, Mobi
 - Room Selection
 - Booking & Confirmation
 - My Itinerary
-- Logout
 
 **Responsibilities:**
-- Created and executed manual test cases
-- Performed functional and regression testing
-- Logged defects with proper repro steps
+- Created manual test cases for end-to-end booking flow
+- Executed functional and regression testing
+- Identified and documented defects
 - Validated expected vs actual results
 
 ---
 
 ### 🔹 Adactin Hotel – Mobile App Testing
 **Project Type:** Mobile Application  
-**Platform:** Android (Functional Testing)  
-
-**Modules Tested:**
-- App Installation & Launch
-- Login & Logout
-- Hotel Search
-- Booking Flow
-- Confirmation Screen
+**Platform:** Android  
 
 **Responsibilities:**
-- Executed functional test cases on mobile app
-- Verified UI behavior and basic usability
-- Tested app stability and navigation
-- Reported mobile-specific issues
+- Performed functional testing on Android mobile application
+- Verified app installation, launch, navigation, and booking flow
+- Tested login, search, booking, and confirmation features
+- Reported mobile-specific issues and UI behaviour problems
 
 ---
 
@@ -83,20 +113,25 @@ Detail-oriented QA professional with hands-on experience in Manual Testing, Mobi
 - Delete User API
 
 **Responsibilities:**
-- Tested APIs using GET, POST, PUT, DELETE methods
+- Executed API testing using GET, POST, PUT, DELETE methods
 - Validated HTTP response codes (200, 400, 404)
 - Performed positive and negative test scenarios
-- Verified response body and messages
+- Verified response messages and payload data
 
 ---
 
-## 📁 Sample Work
-- ✔️ Manual Test Cases (Web & Mobile)
-- ✔️ Bug Reports
-- ✔️ API Test Cases
-- ✔️ API Response Validation
+## 📁 QA Documentation Created
+- ✔ Test Plan
+- ✔ Test Cases
+- ✔ Test Execution Report
+- ✔ Defect Report / Defect Summary
+- ✔ JIRA Bug Reports
+- ✔ API Test Cases & Collections
 
-> Please check my repositories below for detailed work samples.
+---
+
+## 🎯 Career Objective
+To work as a QA / Software Test Engineer where I can contribute to delivering high-quality software by applying structured testing practices, strong documentation skills, and a quality-first mindset.
 
 ---
 
